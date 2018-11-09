@@ -1,0 +1,32 @@
+{
+  "name": "homebridge-http-rgb-bulb",
+  "version": "0.0.2",
+  "description": "HTTP/HTTPS RGB bulb/led plugin for homebridge",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin",
+    "open smart",
+    "rgb",
+    "lights",
+    "led strip",
+    "led strip driver"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": {
+    "name": "@metbosch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/metbosch/homebridge-open-smart-led-strip-driver.git"
+  },
+  "dependencies": {
+    "colorsys": "^1.0.9",
+    "raspi": "^5.0.2",
+    "raspi-gpio": "^6.0.0",
+    "sleep": "^5.2.3",
+    "wait.for": "^0.6.6"
+  }
+}
