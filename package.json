@@ -1,13 +1,14 @@
 {
-  "name": "homebridge-http-rgb-bulb",
+  "name": "homebridge-open-smart-led-strip-drive",
   "version": "0.0.2",
-  "description": "HTTP/HTTPS RGB bulb/led plugin for homebridge",
+  "description": "Homebridge plugin to control the Open Smart LED Strip Driver",
   "license": "MIT",
   "keywords": [
     "homebridge-plugin",
     "open smart",
     "rgb",
     "lights",
+    "light",
     "led strip",
     "led strip driver"
   ],
